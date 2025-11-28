@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Manjula  
 
 ### AI & Machine Learning Enthusiast  
